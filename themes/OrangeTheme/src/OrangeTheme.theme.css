@@ -1,0 +1,104 @@
+/**
+ * @name OrangeTheme
+ * @version 1.1
+ * @description An orange theme for useless people who like orange
+ * @author Irian3x3#0001
+ * @source https://github.com/Irian3x3/BetterDiscord-Themes/tree/main/themes/OrangeTheme/src/OrangeTheme.theme.css
+ * @website
+**/
+
+:root{
+    --background-primary: #b95604 !important;
+    --background-secondary: #944504 !important;
+    --background-secondary-alt: #944504 !important;
+    --background-tertiary: #cc5c01 !important;
+    --deprecated-quickswitcher-input-background: #b15b15 !important;
+    --channeltextarea-background: #f87f2e !important;
+    --background-accent: #fb8210;
+    --text-muted: #f89a64;
+    --text-link: #facea5;
+    --text-link-alt: #fbbd83;
+    --bd-blue: #4de4ff;
+
+    /* Status 
+    --online: #ff7676 !important;*/
+}
+
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: var(--background-tertiary);
+    color: hsla(0,0%,100%,.8);
+    opacity: 93%;
+}
+
+.theme-dark .headerNormal-T_seeN {
+    background-color: var(--background-secondary);
+    opacity: 93%;
+}
+
+/*rect {
+    fill: rgb(116, 127, 141);
+}*/
+
+.theme-dark .closeButton-1tv5uR {
+    border-color: #ff8a05;
+}
+
+.theme-dark .keybind-KpFkfr {
+    color: #f68c29;
+}
+
+.headerPlaying-j0WQBV {
+    background: #ff9e1f;
+}
+.topSectionPlaying-1J5E4n {
+    background: #ff9e1f;
+}
+
+.h5-18_1nd {
+    color: var(--text-link);
+}
+
+.header-2RyJ0Y {
+    color: var(--text-link);
+}
+
+.cardPrimary-1Hv-to {
+    background: var(--background-secondary-alt);
+}
+
+.subSectionHeader-1bsAit {
+    color: var(--text-link);
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+    color: var(--text-link);
+}
+
+.theme-dark .userSettingsAccount-3wUMIP .viewBody-1l56Sd {
+    color: var(--text-link-alt);
+}
+
+#bd-pub-button {
+    background-color: var(--background-primary);
+}
+
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    background-color: #ff7300
+}
+
+.theme-dark .actionButton-VzECiy {
+    border-color: #ff8a05;
+}
+
+.topSectionNormal-2-vo2m .activityHeader-1PExlk, .topSectionNormal-2-vo2m .customStatusText-39gdCI {
+    color: #ff8a05;
+}
+
+.userInfoSectionHeader-CBvMDh {
+    color: #ff8a05;
+}
+
+.top-28JiJ- .selected-3s45Ha.themed-OHr7kt.item-PXvHYJ, .top-28JiJ- .themed-OHr7kt.item-PXvHYJ:active {
+    border-bottom-color: #ff8a05;
+    color: var(--text-link);
+}
