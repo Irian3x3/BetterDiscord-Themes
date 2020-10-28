@@ -4,7 +4,7 @@
  * @description An orange theme for useless people who like orange
  * @author Irian3x3#0001
  * @source https://github.com/Irian3x3/BetterDiscord-Themes/tree/main/themes/OrangeTheme/src/OrangeTheme.theme.css
- * @website
+ * @website https://github.com/Irian3x3/BetterDiscord-Themes/tree/main/themes/OrangeTheme/
 **/
 
 :root{
@@ -101,4 +101,17 @@
 .top-28JiJ- .selected-3s45Ha.themed-OHr7kt.item-PXvHYJ, .top-28JiJ- .themed-OHr7kt.item-PXvHYJ:active {
     border-bottom-color: #ff8a05;
     color: var(--text-link);
+}
+
+.blockquoteDivider-2hH8H6 {
+    background-color: var(--text-link);
+}
+
+.botTagRegular-2HEhHi {
+    background: var(--text-muted);
+    opacity: 50%;
+}
+
+.guildName-2hvnt_ {
+    color: var(--text-link-alt);
 }
