@@ -1,5 +1,8 @@
 # OrangeTheme
-This is a Discord orange theme for useless people who like orange.
+## Info
+> This is a Discord orange theme for useless people who like orange.
+> 
+> This theme is *almost completely* based on `orange`
 
 ## Links
 - [Source](./OrangeTheme/src/OrangeTheme.theme.css)
