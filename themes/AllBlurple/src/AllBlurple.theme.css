@@ -1,0 +1,149 @@
+/**
+ * @name AllBlurple
+ * @version 1.0
+ * @author Irian3x3#0001
+ * @description A fully blurple discord for all of those blue & blurple lovers like me! Warning: you'll see like nothing if you use this theme
+**/
+
+:root {
+    --blurple: #7289DA;
+    --blurple-alt: #5c75ce;
+    --blurple-alt-2: #4861bb;
+
+    --background-primary: #89acff !important;
+    --background-secondary: var(--blurple) !important;
+    --background-secondary-alt: #526cc7 !important;
+    --background-tertiary: #4861bb !important;
+    --deprecated-quickswitcher-input-background: #b15b15 !important;
+    --channeltextarea-background: #7289DA !important;
+    --background-accent: var(--blurple-alt);
+    --text-muted: #becdff;
+    --text-link: #ced9ff;
+    --text-link-alt: #a8b9f6;
+    --bd-blue: #4de4ff;
+    --background-floating: var(--blurple);
+
+    /* Some of it was copied so have fun with code that didn't work:
+    --backdrop: url(https://i.pinimg.com/originals/d6/fd/c8/d6fdc83f651e1c1460625cd25da61cd0.jpg);
+
+    /* Status
+        --online: #43b581 !important; /*Color When someone is Online	
+        --idle: #faa61a !important; /*Color When someone is Idle
+        --dnd: #f04747 !important; /*Color When someone is in Do Not Disturb*
+        --offline: #636b75 !important; /*Color When someone is offline	
+        --invisible: #747f8d !important; /*Color When someone is Invisible	
+        --streaming: #643da7 !important; /*Color When someone is Streaming
+    */
+}
+
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: var(--background-tertiary);
+    color: hsla(0,0%,100%,.8);
+    opacity: 93%;
+}
+
+.theme-dark .headerNormal-T_seeN {
+    background-color: var(--background-secondary);
+    opacity: 93%;
+}
+
+/*rect {
+    fill: rgb(116, 127, 141);
+}*/
+
+.theme-dark .closeButton-1tv5uR {
+    border-color: var(--text-link-alt);
+}
+
+.theme-dark .keybind-KpFkfr {
+    color: var(--text-link);
+}
+
+.headerPlaying-j0WQBV {
+    background: var(--blurple-alt);
+}
+.topSectionPlaying-1J5E4n {
+    background: var(--blurple-alt);
+}
+
+.h5-18_1nd {
+    color: var(--text-link);
+}
+
+.header-2RyJ0Y {
+    color: var(--text-link);
+}
+
+.cardPrimary-1Hv-to {
+    background: var(--background-secondary-alt);
+}
+
+.subSectionHeader-1bsAit {
+    color: var(--text-link);
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+    color: var(--text-link);
+}
+
+.theme-dark .userSettingsAccount-3wUMIP .viewBody-1l56Sd {
+    color: var(--text-link-alt);
+}
+
+#bd-pub-button {
+    background-color: var(--background-primary);
+}
+
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    background-color: var(--blurple);
+}
+
+.theme-dark .actionButton-VzECiy {
+    border-color: var(--text-link-alt);
+}
+
+.topSectionNormal-2-vo2m .activityHeader-1PExlk, .topSectionNormal-2-vo2m .customStatusText-39gdCI {
+    color: var(--blurple);
+}
+
+.userInfoSectionHeader-CBvMDh {
+    color: var(--text-link);
+}
+
+.top-28JiJ- .selected-3s45Ha.themed-OHr7kt.item-PXvHYJ, .top-28JiJ- .themed-OHr7kt.item-PXvHYJ:active {
+    border-bottom-color: var(--text-link);
+    color: var(--text-link);
+}
+
+.blockquoteDivider-2hH8H6 {
+    background-color: var(--text-link);
+}
+
+.botTagRegular-2HEhHi {
+    background: var(--text-muted);
+    opacity: 50%;
+}
+
+.guildName-2hvnt_ {
+    color: var(--text-link-alt);
+}
+
+.disableColor-MwOAZf, .iconBackgroundTierNone-3MPhMJ, .iconBackgroundTierOne-2LhaMB, .iconBackgroundTierThree-3qw3JX, .iconBackgroundTierTwo-3bCmdc {
+    color: var(--blurple);
+}
+
+.theme-dark .perksModal-fSYqOq {
+    background-color: var(--blurple-alt);
+}
+
+.theme-dark .perk-2WeBWW {
+    background-color: var(--blurple);
+}
+
+.theme-dark .uploadModal-2ifh8j {
+    background-color: var(--blurple-alt);
+}
+
+.theme-dark .footer-3mqk7D {
+    background-color: var(--blurple-alt-2);
+}
