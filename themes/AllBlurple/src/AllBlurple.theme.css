@@ -3,6 +3,7 @@
  * @version 1.0
  * @author Irian3x3#0001
  * @description A fully blurple discord for all of those blue & blurple lovers like me! Warning: you'll see like nothing if you use this theme
+ * @source https://github.com/Irian3x3/BetterDiscord-Themes/blob/main/themes/AllBlurple/src/AllBlurple.theme.css
 **/
 
 :root {
@@ -23,7 +24,9 @@
     --bd-blue: #4de4ff;
     --background-floating: var(--blurple);
 
-    /* Some of it was copied so have fun with code that didn't work:
+    --interactive-normal: white
+
+    /*
     --backdrop: url(https://i.pinimg.com/originals/d6/fd/c8/d6fdc83f651e1c1460625cd25da61cd0.jpg);
 
     /* Status
@@ -146,4 +149,16 @@
 
 .theme-dark .footer-3mqk7D {
     background-color: var(--blurple-alt-2);
+}
+
+.cozy-3raOZG .messageContent-2qWWxC {
+	color: white;
+}
+
+.colorHeaderSecondary-3Sp3Ft {
+	color: white;
+}
+
+.description-3_Ncsb, .labelDescriptor-1PqHgD {
+	color: white;
 }
