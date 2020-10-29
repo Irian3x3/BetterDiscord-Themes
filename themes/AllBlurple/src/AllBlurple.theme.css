@@ -23,6 +23,7 @@
     --text-link-alt: #a8b9f6;
     --bd-blue: #4de4ff;
     --background-floating: var(--blurple);
+    --channels-default: var(--blurple-alt-2);
 
     --interactive-normal: white
 
@@ -37,6 +38,10 @@
         --invisible: #747f8d !important; /*Color When someone is Invisible	
         --streaming: #643da7 !important; /*Color When someone is Streaming
     */
+}
+
+.icon-1_QxNX {
+	color: var(--blurple-alt-2)
 }
 
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
